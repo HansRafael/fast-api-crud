@@ -1,5 +1,4 @@
 annotated-types==0.7.0
-anyio==4.7.0
 bcrypt==4.2.1
 build==1.2.2.post1
 CacheControl==0.14.1
@@ -49,7 +48,6 @@ pytest-mock==3.14.0
 python-dotenv==1.0.1
 python-jose==3.3.0
 python-multipart==0.0.20
-RapidFuzz==3.11.0
 requests==2.32.3
 requests-toolbelt==1.0.0
 rsa==4.9
@@ -63,7 +61,6 @@ tomlkit==0.13.2
 trove-classifiers==2024.10.21.16
 typing_extensions==4.12.2
 urllib3==2.2.3
-uvicorn==0.34.0
+uvicorn
 virtualenv==20.28.0
 xattr==1.1.0
-zipp==3.21.0
